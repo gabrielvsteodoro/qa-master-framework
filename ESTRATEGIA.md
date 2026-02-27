@@ -1,3 +1,4 @@
+# Estratégia de Testes - Campo de Senha (8-16 caracteres)
 
 O Cenário: Você vai mapear os testes para um campo de "Criação de Senha".
 
@@ -11,8 +12,6 @@ Teste 2: 8 caracteres (Limite inferior exato): Deve ser aceito.
 Teste 3: 16 caracteres (Limite superior exato): Deve ser aceito.
 
 Teste 4: 17 caracteres (Limite superior + 1): Deve ser rejeitado.
-
-# Estratégia de Testes - Campo de Senha (8-16 caracteres)
 
 ## 1. Análise de Valor Limite (Foco Técnico)
 - [ ] 7 caracteres: Rejeitar (Borda externa inferior)
