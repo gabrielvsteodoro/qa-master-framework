@@ -28,3 +28,4 @@ Teste 4: 17 caracteres (Limite superior + 1): Deve ser rejeitado.
 - **Letra Escolhida:** D (Data)
 - **Aplicação no Carrinho:** (Sua explicação aqui)
 
+
